@@ -1,5 +1,5 @@
-package PACKAGE_NAME;public class BingoAda {
-}
+package PACKAGE_NAME;
+
 import java.util.Random;
 import java.util.Scanner;
 
